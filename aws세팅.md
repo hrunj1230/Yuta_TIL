@@ -1,5 +1,5 @@
 접속
-ssh -i ~/Downloads/<YOUR_KEY>.pem ec2-user@퍼블릭_IP
+ssh -i ~/Downloads/<YOUR_KEY>.pem ec2-user@<퍼블릭_IP>
 uv 설치
 curl -LsSf https://astral.sh/uv/install.sh | sh
 git 설치
